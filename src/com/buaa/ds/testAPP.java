@@ -6,7 +6,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class test {
+public class testAPP {
     public static void main(String[] args) {
         ExecutorService es = Executors.newFixedThreadPool(5);
         final CountDownLatch endGate = new CountDownLatch(10);
