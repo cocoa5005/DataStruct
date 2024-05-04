@@ -75,9 +75,9 @@ public class Heap {
 			else
 				System.out.print("--");
 		System.out.println();
-		int nBlanks = 32;//每一行空格
-		int itemPerRow = 1;//每一行的元素个数
-		int column = 0;//记录每行的元素是第几个
+		int nBlanks = 32;//每一锟叫空革拷
+		int itemPerRow = 1;//每一锟叫碉拷元锟截革拷锟斤拷
+		int column = 0;//锟斤拷录每锟叫碉拷元锟斤拷锟角第硷拷锟斤拷
 		int j = 0;
 		String dots="-----------------------";
 		System.out.println(dots+dots);
